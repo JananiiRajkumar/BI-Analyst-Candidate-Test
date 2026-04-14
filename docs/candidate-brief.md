@@ -56,8 +56,6 @@ Using DAX, produce measures that answer the following:
 - Week-on-week and month-on-month commission change — for the business as a whole and by operator
 - Are there any anomalies or data quality issues you think the business should be made aware of? Flag them clearly.
 
-Where relevant, write your measures using `VAR / RETURN` blocks. Avoid nested function spaghetti.
-
 ### 4. Dashboard
 
 Build a Power BI report that a non-technical commercial stakeholder can read and act on. It should cover at minimum:

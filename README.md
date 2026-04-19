@@ -120,9 +120,10 @@ affMatrix reports in EUR and USD. trackAff reports in GBP and EUR. For this asse
 
 ## 7. Key Findings
 
-- **Champions Sports Promo** generated the highest commission at £6.4M — the top performing campaign
+- **Champions Sports Promo** generated the highest commission at £5M — the top performing campaign
 - **TrackAff platform** cards significantly outperform AffMatrix cards — top 9 cards by commission are all TrackAff
-- **Card 301** (LuckyEdge, Champions Sports Promo) is the single best performing card at £2.2M commission
+- **Card 301** (LuckyEdge, Champions Sports Promo) is the single best performing card at £1.7
+- M commission
 
 ---
 
